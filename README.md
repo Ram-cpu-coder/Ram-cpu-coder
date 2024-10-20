@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a trainee at Dented Code Academy.<br>Currently student at KOI.<br> 
+Trainee at Dented Code Academy.<br>Currently student at KOI.
+Motivated Full Stack Developer with a solid foundation in HTML, CSS, and JavaScript. Eager to learn and grow in the field, I’ve completed several personal projects that demonstrate my passion for web development and user experience. I’m excited to join a collaborative team where I can further develop my skills and contribute to innovative solutions.
+<br> 
 
 
 ## 🌐 Socials:
