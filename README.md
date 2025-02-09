@@ -36,34 +36,3 @@ I'm excited to join a collaborative team where I can further develop my skills a
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Projects
-### 💳 Personal Finance Tracker
-A simple finance tracker app for managing and tracking expenses. Users can add, update, and delete their transactions.
-
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Features**: 
-  - User authentication with JWT
-  - CRUD functionality for managing transactions
-  - Real-time data updates
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new pull request.
-
----
-
-## 💬 Questions or Issues
-If you have any questions or issues, feel free to open an issue or reach out to me directly via [email/contact method].
