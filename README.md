@@ -14,13 +14,13 @@ I'm excited to join a collaborative team where I can further develop my skills a
 
 <p align="center">- 🔭 I’m currently working on [Library Management System](https://linbrary-management-system-fe.vercel.app/)</p>
 
-<p align="center">- 🌱 I’m currently learning **Express Js**</p>
+<p align="center">- 🌱 I’m currently learning Express Js</p>
 
 <p align="center">- 👨‍💻 All of my projects are available at [ramkumardhimal.com](ramkumardhimal.com)</p>
 
-<p align="center">- 💬 Ask me about **React, Node Js, Express Js**</p>
+<p align="center">- 💬 Ask me about React, Node Js, Express Js</p>
 
-<p align="center">- 📫 How to reach me **ramkumardhimal2057@icloud.com**</p>
+<p align="center">- 📫 How to reach me >>> ramkumardhimal2057@icloud.com</p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -125,5 +125,9 @@ I'm excited to join a collaborative team where I can further develop my skills a
 ---
 
 <h2 align ="center">✍️ Random Dev Quote</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+
 
