@@ -12,7 +12,7 @@ I'm excited to join a collaborative team where I can further develop my skills a
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram-cpu-coder" alt="ram-cpu-coder" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on [Library Management System](https://linbrary-management-system-fe.vercel.app/)</p>
+<p align="center">- 🔭 I’m currently working on <a href ="https://linbrary-management-system-fe.vercel.app/">[Library Management System]</a></p>
 
 <p align="center">- 🌱 I’m currently learning Express Js</p>
 
