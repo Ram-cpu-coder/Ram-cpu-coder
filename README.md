@@ -16,7 +16,7 @@ I'm excited to join a collaborative team where I can further develop my skills a
 
 <p align="center">- 🌱 I’m currently learning Express Js</p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [ramkumardhimal.com](ramkumardhimal.com)</p>
+<p align="center">- 👨‍💻 All of my projects are available at <a href="https://ramkumardhimal.com">[ramkumardhimal.com]</a></p>
 
 <p align="center">- 💬 Ask me about React, Node Js, Express Js</p>
 
