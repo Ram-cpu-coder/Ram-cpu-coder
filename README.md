@@ -14,8 +14,6 @@ I'm excited to join a collaborative team where I can further develop my skills a
 
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://ramkumardhimal.com">[ramkumardhimal.com]</a></p>
 
-<p align="center">- 💬 Ask me about React, Node Js, Express Js</p>
-
 <p align="center">- 📫 How to reach me >>> <a>ramkumardhimal2057@icloud.com</a></p>
 
 <h2 align="center">Connect with me:</h2>
