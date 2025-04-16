@@ -8,7 +8,7 @@ I'm excited to join a collaborative team where I can further develop my skills a
 
 ---
 
-<p align="center">- 🔭 I’m currently working on <a href ="https://linbrary-management-system-fe.vercel.app/">[Library Management System]</a></p>
+<p align="center">- 🔭 I’m currently working on <a href ="https://lms-xi-jade.vercel.app/">[Library Management System]</a></p>
 
 <p align="center">- 🌱 I’m currently learning Express Js</p>
 
